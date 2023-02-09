@@ -1,0 +1,64 @@
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+}
+
+header{
+    background-color:#163867;
+    padding: 10px;
+}
+
+header div h2{
+    color: white;
+    text-align: center;
+}
+
+main{
+    width: 862px;
+    margin: 100px auto 180px ;
+
+}
+
+.user_login_table{
+    width: 400px;
+    background-color:white;
+    margin: 0 auto 28px;
+}
+
+.user_login_table td input {
+    width: 370px;
+    height: 20px;
+    background-color: white;
+    margin: 10px 15px ;
+    padding: 10px;
+}
+
+#user_email,#user_password{
+    height: 40px;
+    font-size: 18px;
+    padding-top:10px;
+}
+
+button{
+    text-align: center;
+    color: white;
+}
+
+.user_login_table td button{
+    width: 150px;
+    height:44px;
+    background-color:blue;
+    /* border-radius: 22px; */
+    margin: 25px 125px;
+}
+
+#user_help{
+    height: 20px;
+    font-size:13px;
+    padding-bottom: 30px;
+}
+
+#user_help a {
+    color:#00A0E9;
+}
+
